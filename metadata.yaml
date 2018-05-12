@@ -1,0 +1,59 @@
+_repo: Rootabaga-Stories_27085
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Petersham, Maud
+    aliases:
+    - Fuller, Maud
+    - Petersham, Maud Fuller
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '31375'
+    url: http://www.gutenberg.org/2009/agents/31375
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+  - agent_name: Petersham, Miska
+    aliases:
+    - Petrezselyem, Mihaly
+    - Petrezselyem, Mihály
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '31374'
+    url: http://www.gutenberg.org/2009/agents/31374
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+covers:
+- cover_type: archival
+  image_path: 27085-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sandburg, Carl
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '32447'
+    url: http://www.gutenberg.org/2009/agents/32447
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Sandburg
+description: Cover; Rootabaga Stories; Copyright; CONTENTS; 1. Three Stories About
+  the Finding of the Zigzag Railroad, the Pigs with Bibs On, the Circus Clown Ovens,
+  the Village of Liver-and-Onions, the Village of Cream Puffs.; How They Broke Away
+  to Go to the Rootabaga Country; How They Bring Back the Village of Cream Puffs When
+  the Wind Blows It Away; How the Five Rusty Rats Helped Find a New Village; 2. Five
+  Stories About the Potato Face Blind Man; The Potato Face Blind Man Who Lost the
+  Diamond Rabbit on His Gold Accordion; How the Potato Face Blind Man Enjoyed Himself
+  on a Fine Spring Morning.
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27085'
+  lccn: '22020317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- United States'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Children''s stories, American'
+title: Rootabaga Stories
+url: http://www.gutenberg.org/ebooks/27085
